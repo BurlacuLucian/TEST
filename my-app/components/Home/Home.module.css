@@ -1,0 +1,9 @@
+.img {
+    height: 200px;
+    width: 300px;
+}
+
+.card {
+    background-color: rgb(227, 245, 254);
+   text-align: center;
+}
